@@ -128,7 +128,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-
-
-# git access token
- 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
